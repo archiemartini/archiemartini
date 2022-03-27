@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @archiemartini
 
-- 👀 I’m interested in ...
-complete and utter world domination
-
 - 🌱 I’m currently learning ...
-ruby :P
+ruby, python3, javascript
 
 - 💞️ I’m looking to collaborate on ...
 a Simpsons trivia app / crypto-space

@@ -6,9 +6,6 @@ ruby, python3, javascript
 - 💞️ I’m looking to collaborate on ...
 a Simpsons trivia app / crypto-space
 
-- 📫 How to reach me ...
-Successville
-
 
 <!---
 archiemartini/archiemartini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

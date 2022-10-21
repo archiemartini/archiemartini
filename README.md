@@ -10,5 +10,5 @@ I'm a Fullstack Developer and recent graduate from [Makers Academy](https://make
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archiemartini" alt="Archie's LangStat" />
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archiemartini&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Archie's language" height="192px"  width="500px"/>
+  <img align="center" style="padding-top: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=archiemartini&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Archie's language" height="192px"  width="500px"/>
 </div>

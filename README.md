@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Archie! 🍸
-I'm a Fullstack Developer with professional experience in Ruby on Rails and React Native.
+I'm a Full-on Developer.
 
-- ⭐ Eager to remain fullstack, learn all facets of Software Development, and never stop learning!
+- ⭐ Interested in building accessible Rails and React web and mobile applications.
 - 💼 Living between Manchester and London.
-- 💻 Proficient in Ruby, Node.js, React/Redux, and more.
+- 💻 Proficient in Ruby/Rails, Node.js, React/Redux, Vue and more.
